@@ -1,0 +1,11 @@
+C:\Users\user3\source\repos\TNASec\TNASec\bin\Debug\TNASec.exe.config
+C:\Users\user3\source\repos\TNASec\TNASec\bin\Debug\TNASec.exe
+C:\Users\user3\source\repos\TNASec\TNASec\bin\Debug\TNASec.pdb
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.csproj.AssemblyReference.cache
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.csproj.SuggestedBindingRedirects.cache
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.TNASec.resources
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.Properties.Resources.resources
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.csproj.GenerateResource.cache
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.csproj.CoreCompileInputs.cache
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.exe
+C:\Users\user3\source\repos\TNASec\TNASec\obj\Debug\TNASec.pdb
